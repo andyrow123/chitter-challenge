@@ -22,7 +22,7 @@ My relationships where conceptualized as follows:
 Unfinished:
 -------
 
-I would have liked to have implemented the ablitiy to:
+I would have liked to have added:
  
  * Tagging functionality
  * A users ability to follow another 
